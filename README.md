@@ -1,5 +1,5 @@
 # Junior Programmer Pathway
-My course files for the Junior Programmer Pathway offered through Unity.
+My course files for the Junior Programmer Pathway offered through Unity.  
 https://learn.unity.com/pathway/junior-programmer
 
 ## Units
